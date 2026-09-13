@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0283-move-zeroes](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1901-find-a-peak-element-ii](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
