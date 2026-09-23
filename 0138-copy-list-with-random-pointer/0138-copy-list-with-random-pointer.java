@@ -25,9 +25,7 @@ class Solution {
                 t2.next = t2.next.next;
             }
             t1 = t1.next;
-            if (t1 != null) {
-                t2 = t1.next;
-            }
+            t2 = t2.next;
         }
         return ans;
     }
