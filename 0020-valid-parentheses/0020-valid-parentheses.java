@@ -4,13 +4,13 @@ class Solution {
         int i = 0;
         int n = s.length();
         while(i < n){
-            if(s.charAt(i) == '(' || s.charAt(i) == '{' || s.charAt(i) == '['){
+            char ch = s.charAt(i);
+            if(ch == '(' || ch == '{' || ch == '['){
                 st.push(s.charAt(i));
                 i++;
             }
             else{
                 if(st.isEmpty()) return false;
-                char ch = s.charAt(i);
                 char top = st.peek();
                 if((ch == ')' && top == '(') ||
                    (ch == '}' && top == '{') ||
