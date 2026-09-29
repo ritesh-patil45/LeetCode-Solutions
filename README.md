@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1901-find-a-peak-element-ii](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Matrix
 |  |
