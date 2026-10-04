@@ -14,16 +14,9 @@ class Solution {
                 st.pop(); 
             }
             else{ // temp[i] < temp[st.peek()]
-                if(st.isEmpty()){
-                    ans[i] = 0;
-                    st.push(i);
-                    i--;
-                }
-                else{
-                    ans[i] = st.peek() - i;
-                    st.push(i);
-                    i--;
-                }
+                ans[i] = st.peek() - i;
+                st.push(i);
+                i--;
             }
         }
         return ans;
