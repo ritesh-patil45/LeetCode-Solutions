@@ -34,17 +34,12 @@ class Solution {
                 i++;
             }
         }
-        Stack<Integer> st2 = new Stack<>();
-        int m = 0;
-        while(!st.isEmpty()){
-            st2.push(st.pop());
-            m++;
-        }
+        int m = st.size();
         int[] ans = new int[m];
-        i = 0;
-        while(!st2.isEmpty()){
-            ans[i] = st2.pop();
-            i++;
+        i = m-1;
+        while(!st.isEmpty()){
+            ans[i] = st.pop();
+            i--;
         }
         return ans;
     }
