@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Counting Sort
