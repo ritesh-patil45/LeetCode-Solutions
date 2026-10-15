@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2390-removing-stars-from-a-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Counting Sort
 |  |
 | ------- |
