@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0682-baseball-game) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0394-decode-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0394-decode-string) |
 ## Depth-First Search
 |  |
 | ------- |
