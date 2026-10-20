@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2104-sum-of-subarray-ranges](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2104-sum-of-subarray-ranges](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2104-sum-of-subarray-ranges](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
