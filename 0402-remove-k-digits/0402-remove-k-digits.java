@@ -36,9 +36,9 @@ class Solution {
         }
         StringBuilder ans = new StringBuilder("");
         while(!st.isEmpty()){
-            String s = String.valueOf(st.pop());
-            ans.insert(0, s);
+            ans.append(st.pop());
         }
+        ans.reverse();
         while(ans.length() > 0 && ans.charAt(0) == '0'){
             ans.deleteCharAt(0);
         }
