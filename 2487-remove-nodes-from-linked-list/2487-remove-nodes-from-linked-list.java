@@ -18,13 +18,13 @@ class Solution {
                 ans.push(st.pop());
             }
         }
-        ListNode nh = new ListNode(ans.pop().val);
+        ListNode nh = ans.pop();
         ListNode dum = nh;
         while(!ans.isEmpty()){
-            ListNode a = new ListNode(ans.pop().val);
-            dum.next = a;
-            dum = a;
+            dum.next = ans.pop();
+            dum = dum.next;
         }
+        dum.next = null;
         return nh;
     }
 }
