@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
+| [1389-create-target-array-in-the-given-order](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
