@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0258-add-digits](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
@@ -277,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
