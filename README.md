@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0059-spiral-matrix-ii](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## String
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
