@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2469-convert-the-temperature](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Simulation
 |  |
 | ------- |
