@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0682-baseball-game) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
