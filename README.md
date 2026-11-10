@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
 |  |
@@ -311,4 +315,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
