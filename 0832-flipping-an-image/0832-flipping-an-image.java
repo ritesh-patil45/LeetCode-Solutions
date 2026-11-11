@@ -1,13 +1,16 @@
 class Solution {
-    public int[][] flipAndInvertImage(int[][] matrix) {
-        int n = matrix.length;
-        int[][] ans = new int[n][n];
+    public int[][] flipAndInvertImage(int[][] ans) {
+        int n = ans.length;
         //reverse
         for(int i=0 ; i<n ; i++){
-            int x = n-1;
-            for(int j=0 ; j<n ; j++){
-                ans[i][x] = matrix[i][j];
-                x--;
+            int x = 0;
+            int y = n-1;
+            while(x < y){
+                int temp = ans[i][x];
+                ans[i][x] = ans[i][y];
+                ans[i][y] = temp;
+                x++;
+                y--;
             }
         }
         //flip
