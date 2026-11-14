@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2469-convert-the-temperature](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
+| [2485-find-the-pivot-integer](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Trie
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2485-find-the-pivot-integer](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 ## Simulation
 |  |
 | ------- |
