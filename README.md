@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0155-min-stack) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
