@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/0901-online-stock-span) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/ritesh-patil45/LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Data Stream
 |  |
 | ------- |
